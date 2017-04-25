@@ -360,7 +360,7 @@ main {
   text-decoration: underline;
 }
 
-.snippet__title a{
+.snippet__title {
   order: 0;
   width: 100%;
   margin: 0 0 0.5em;
